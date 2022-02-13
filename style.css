@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: aquamarine;
+}
+
+.quem-somos {
+    background-color: darkgray;
+    color: azure;
+    font-family: sans-serif;
+
+}
+
+.margin {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+#quemsomos {
+    justify-content: justify;
+    text-align: center;
+}
+
+.bg-footer{
+    
+    background-color: black;
+    color: white;
+}
